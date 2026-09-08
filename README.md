@@ -4,14 +4,14 @@ I'm an Informatics Engineering graduate interested in
 software engineering, especially mobile development.
 
 ### Personal Project
-- Uangku! -- Personal finance App (Android)
+- [Uangku!](https://github.com/AmberForester/UangKu_Personal_Project) -- Personal finance App (Android)
 
 ### Internship Projects
-- Si Jaga -- Security Attendance App (Android)
-- Administration System (Website)
+- [Si Jaga](https://github.com/AmberForester/MobileApp-Project) -- Security Attendance App (Android)
+- [Administration System](https://github.com/AmberForester/Website-Project) (Website)
   
 ### Academic Projects
-- Sportify -- Sports Venue Booking Application (Android)
+- [Sportify](https://github.com/AmberForester/Sportify_App) -- Sports Venue Booking Application (Android)
 
 
 ### Tech Stack

@@ -5,7 +5,7 @@ software engineering, especially mobile development.
 
 ### Personal Project
 - [Uangku!](https://github.com/AmberForester/UangKu_Personal_Project) -- Personal finance App (Android) <br>
-  **Status:** 🚧 In Development
+  **Status:** In Development
 
 ### Internship Projects
 - [Si Jaga](https://github.com/AmberForester/MobileApp-Project) -- Security Attendance App (Android)

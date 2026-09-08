@@ -4,7 +4,7 @@ I'm an Informatics Engineering graduate interested in
 software engineering, especially mobile development.
 
 ### Personal Project
-- [Uangku!](https://github.com/AmberForester/UangKu_Personal_Project) -- Personal finance App (Android)
+- [Uangku!](https://github.com/AmberForester/UangKu_Personal_Project) -- Personal finance App (Android) <br>
   **Status:** 🚧 In Development
 
 ### Internship Projects

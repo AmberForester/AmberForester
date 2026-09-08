@@ -3,18 +3,18 @@
 I'm an Informatics Engineering graduate interested in
 software engineering, especially mobile development.
 
-## Personal Project
+### Personal Project
 - Uangku! -- Personal finance App (Android)
 
-## Internship Projects
+### Internship Projects
 - Si Jaga -- Security Attendance App (Android)
 - Administration System (Website)
   
-## Academic Projects
+### Academic Projects
 - Sportify -- Sports Venue Booking Application (Android)
 
 
-## Tech Stack
+### Tech Stack
 - Kotlin
 - Jetpack Compose
 - MVVM Architecture

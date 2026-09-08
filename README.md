@@ -1,7 +1,32 @@
-## Hi there 👋
+## Hi My name is Hironemus Apriliano Diesa Putra
+
+I'm an Informatics Engineering graduate interested in
+software engineering, especially mobile development.
+
+## Personal Project
+- Uangku! -- Personal finance App (Android)
+
+## Internship Projects
+- Si Jaga -- Security Attendance App (Android)
+  
+## Academic Projects
+- Sportify -- Sports Venue Booking Application (Android)
+
+
+## Tech Stack
+- Kotlin
+- Jetpack Compose
+- MVVM Architecture
+- Clean Architecture
+- HTML
+- CSS
+- PHP
+- JavaScript
+- Laravel
 
 <!--
 **AmberForester/AmberForester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
